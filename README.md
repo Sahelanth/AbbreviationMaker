@@ -1,5 +1,5 @@
 # AbbreviationMaker
-Shiny app to make an abbreviation list from all the abbreviations in a document.
+Shiny app to make an abbreviation list from all the abbreviations in a document: https://sahelanth.shinyapps.io/Abbreviator/
 
 This saves time over going through manually and putting a list together yourself.
 
